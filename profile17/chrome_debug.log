@@ -1,0 +1,70 @@
+[29401:29401:0218/153255.026075:WARNING:wayland_object.cc(123)] Binding to gtk_shell1 version 4 but version 5 is available.
+[29401:29401:0218/153255.026231:WARNING:wayland_object.cc(123)] Binding to zwp_pointer_gestures_v1 version 1 but version 3 is available.
+[29401:29401:0218/153255.026312:WARNING:wayland_object.cc(123)] Binding to zwp_linux_dmabuf_v1 version 3 but version 5 is available.
+[29401:29401:0218/153257.623195:WARNING:invalidation_listener_impl.cc(104)] ProfileInvalidationProvider-245350905893 Created for project_number: 245350905893
+[29401:29401:0218/153257.623264:WARNING:fm_registration_token_uploader.cc(155)] Starting FmRegistrationTokenUploader for kUser scope, 245350905893 project
+[29401:29401:0218/153257.623270:WARNING:invalidation_listener_impl.cc(150)] ProfileInvalidationProvider-245350905893 Starting
+[29401:29401:0218/153257.623294:WARNING:invalidation_listener_impl.cc(104)] ProfileInvalidationProvider-585406161706 Created for project_number: 585406161706
+[29401:29401:0218/153257.623318:WARNING:fm_registration_token_uploader.cc(155)] Starting FmRegistrationTokenUploader for kUser scope, 585406161706 project
+[29401:29401:0218/153257.623323:WARNING:invalidation_listener_impl.cc(150)] ProfileInvalidationProvider-585406161706 Starting
+[29401:29401:0218/153257.748530:WARNING:wayland_surface.cc(183)] Server doesn't support zcr_alpha_compositing_v1.
+[29401:29401:0218/153257.748559:WARNING:wayland_surface.cc(198)] Server doesn't support overlay_prioritizer.
+[29401:29401:0218/153257.748566:WARNING:wayland_surface.cc(213)] Server doesn't support wp_content_type_v1
+[29401:29401:0218/153257.748571:WARNING:wayland_surface.cc(232)] Server doesn't support zcr_color_management_surface.
+[30921:30921:0218/153259.701229:WARNING:sandbox_linux.cc(420)] InitializeSandbox() called with multiple threads in process gpu-process.
+[30921:30921:0218/153259.704141:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[29401:29401:0218/153315.195264:INFO:CONSOLE(1)] "Reflect is polyfilled, using `@abraham/reflection`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-live-stack/9888.8c22e8fc40b86ff68433.js (1)
+[29401:29401:0218/153319.244671:INFO:CONSOLE(2)] "loadable: `loadableReady()` requires state, please use `getScriptTags` or `getScriptElements` server-side", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-live-stack/lib-base-infra.ab292ce1a689c3519932.js (2)
+[29401:29401:0218/153319.618860:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153320.848008:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153320.848089:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153329.177947:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153331.736557:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.223/webmssdk.js (1)
+[33362:29:0218/153335.178879:INFO:peer_connection_dependency_factory.cc(802)] Running WebRTC with a combined Network and Worker thread.
+[29401:29401:0218/153336.792194:INFO:CONSOLE(2)] "%c %s color: #4D1B00; background-color: #FF7D00; [Tea instance: default] [instance: default], every instance's api: init,  can be call only one time!", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/webapp-live-stack/lib-starling.0e6aa8bee7ccb24dee2d.js (2)
+[29401:29401:0218/153350.904557:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153351.079656:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[29401:29401:0218/153351.186096:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[31072:31443:0218/153356.480072:WARNING:host_resolver_dns_task.cc(939)] Address list empty after RFC3484 sort
+[31072:31443:0218/153357.281063:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153357.478992:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153358.010416:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153358.746425:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[31072:31443:0218/153359.009600:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153400.123288:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[31072:31443:0218/153401.046613:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153405.057055:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153412.227485:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153412.351107:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/loader/1.0.0.849/index.js (4)
+[31072:31443:0218/153412.463331:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153412.980544:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153413.073044:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153413.998137:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153416.020185:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153417.265242:WARNING:wayland_screen.cc(445)] Cannot inhibit going idle when no window is focused
+[29401:29401:0218/153419.694965:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153419.775890:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153419.775986:INFO:CONSOLE(27324)] "storageFail [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[31072:31443:0218/153420.030288:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153420.363688:INFO:CONSOLE(27324)] "generateKeys duration 582 jsrsasign", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153420.375394:INFO:CONSOLE(27324)] "set storage [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153420.375486:INFO:CONSOLE(27324)] "set storage [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[31072:31443:0218/153421.096978:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153428.040872:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153429.104553:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[31072:31443:0218/153436.056722:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[33362:30:0218/153437.119025:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:47502 (any)
+[29401:29888:0218/153437.469164:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[29401:29401:0218/153439.764243:WARNING:invalidation_listener_impl.cc(263)] ProfileInvalidationProvider-585406161706 Registration token: dWfEuD-Sk2c:APA91bHvzPWzAytxn_ebVLyy6ihWUvY9jThdRo5xFjk5CRlPyDyi9QW9koG9eSpFU6KGtDBePqYpJSyMYLuk_SSVHNpB79qtb5WeAPvKv_J7aVJVbZ2BY40
+[29401:29401:0218/153439.764281:ERROR:fm_registration_token_uploader.cc(186)] Client is missing for kUser scope
+[29401:29401:0218/153439.765483:WARNING:invalidation_listener_impl.cc(263)] ProfileInvalidationProvider-245350905893 Registration token: eTuUQx50hRg:APA91bE4cmCtknU4aXH-AQBJo-Z8txltZODvC5Zah8RAevUMXZCbl1nAwolvE1Hnhp8NZNDIfzhEEmq93ZEqgAQLVxJCUeABOCLjgpdMnRgZLoMaPRQIfjA
+[29401:29401:0218/153439.765511:ERROR:fm_registration_token_uploader.cc(186)] Client is missing for kUser scope
+[31072:31443:0218/153444.079657:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29401:29401:0218/153448.496730:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153448.498046:INFO:CONSOLE(27324)] "getPubKeyBase64 from raw undefined", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153448.761621:INFO:CONSOLE(27324)] "jsrsasignPerformance duration 260 getPubKeyBase64", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153448.763327:INFO:CONSOLE(27324)] "getPubKeyBase64 from method BE4Pf2VNqT6vwQaBDnVhygi3fv0UpYMBk6g4D+u+3U9VpMFa1JIphJ81NVk8xvG5fkxw2DCKcZlzRvekWKpRGOs=", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/crypto/umd/index.js (27324)
+[29401:29401:0218/153450.662849:INFO:CONSOLE(5832)] "request duration [object Object]", source: https://sf16-website.neutral.tiktokcdn-eu.com/obj/tiktok_web_static_eu/zti/1.0.0.26/request/umd/index.js (5832)
+[33362:30:0218/153452.087616:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:44334 (any)
+[29401:29888:0218/153500.723891:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[29401:29401:0218/153529.068038:WARNING:wayland_screen.cc(445)] Cannot inhibit going idle when no window is focused

@@ -1,0 +1,5 @@
+2025/02/18-15:32:55.832 4 Creating DB /home/tunahan/bot/bot/profile13/Default/Local Storage/leveldb since it was missing.
+2025/02/18-15:32:55.899 4 Reusing MANIFEST /home/tunahan/bot/bot/profile13/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/18-15:35:02.422 4 Level-0 table #5: started
+2025/02/18-15:35:02.450 4 Level-0 table #5: 62678 bytes OK
+2025/02/18-15:35:02.461 4 Delete type=0 #3

@@ -1,0 +1,118 @@
+[29357:29357:0218/153254.964714:WARNING:wayland_object.cc(123)] Binding to gtk_shell1 version 4 but version 5 is available.
+[29357:29357:0218/153254.964820:WARNING:wayland_object.cc(123)] Binding to zwp_pointer_gestures_v1 version 1 but version 3 is available.
+[29357:29357:0218/153254.964861:WARNING:wayland_object.cc(123)] Binding to zwp_linux_dmabuf_v1 version 3 but version 5 is available.
+[29357:29357:0218/153255.696301:WARNING:invalidation_listener_impl.cc(104)] ProfileInvalidationProvider-245350905893 Created for project_number: 245350905893
+[29357:29357:0218/153255.696339:WARNING:fm_registration_token_uploader.cc(155)] Starting FmRegistrationTokenUploader for kUser scope, 245350905893 project
+[29357:29357:0218/153255.696347:WARNING:invalidation_listener_impl.cc(150)] ProfileInvalidationProvider-245350905893 Starting
+[29357:29357:0218/153255.696372:WARNING:invalidation_listener_impl.cc(104)] ProfileInvalidationProvider-585406161706 Created for project_number: 585406161706
+[29357:29357:0218/153255.696381:WARNING:fm_registration_token_uploader.cc(155)] Starting FmRegistrationTokenUploader for kUser scope, 585406161706 project
+[29357:29357:0218/153255.696388:WARNING:invalidation_listener_impl.cc(150)] ProfileInvalidationProvider-585406161706 Starting
+[29357:29357:0218/153255.867163:WARNING:wayland_surface.cc(183)] Server doesn't support zcr_alpha_compositing_v1.
+[29357:29357:0218/153255.867195:WARNING:wayland_surface.cc(198)] Server doesn't support overlay_prioritizer.
+[29357:29357:0218/153255.867202:WARNING:wayland_surface.cc(213)] Server doesn't support wp_content_type_v1
+[29357:29357:0218/153255.867208:WARNING:wayland_surface.cc(232)] Server doesn't support zcr_color_management_surface.
+[30161:30161:0218/153257.728763:WARNING:sandbox_linux.cc(420)] InitializeSandbox() called with multiple threads in process gpu-process.
+[30161:30161:0218/153257.734904:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[30168:30244:0218/153257.993079:WARNING:spdy_session.cc(2980)] Received HEADERS for invalid stream 1
+[30161:30161:0218/153258.902792:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30161:30161:0218/153258.904946:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30161:30161:0218/153258.906308:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30161:30161:0218/153258.960622:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[29357:29357:0218/153300.464304:INFO:CONSOLE(1)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=slardar_us_waf&globalName=SlardarWAF (1)
+[29357:29357:0218/153300.474183:INFO:CONSOLE(1)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=slardar_us_waf&globalName=SlardarWAF (1)
+[29357:29357:0218/153312.172297:INFO:CONSOLE(1)] "Reflect is polyfilled, using `@abraham/reflection`.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-live-stack/9888.611f99ef6de6956c4b99.js (1)
+[29357:29357:0218/153315.044071:INFO:CONSOLE(2)] "loadable: `loadableReady()` requires state, please use `getScriptTags` or `getScriptElements` server-side", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-live-stack/lib-base-infra.ab292ce1a689c3519932.js (2)
+[29357:29357:0218/153315.086689:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153315.088436:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153315.196880:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153324.440669:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153325.509876:INFO:CONSOLE(1)] ".", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.295/webmssdk.js (1)
+[30399:29:0218/153330.764137:INFO:peer_connection_dependency_factory.cc(802)] Running WebRTC with a combined Network and Worker thread.
+[29357:29357:0218/153332.155014:INFO:CONSOLE(2)] "%c %s color: #4D1B00; background-color: #FF7D00; [Tea instance: default] [instance: default], every instance's api: init,  can be call only one time!", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-live-stack/lib-starling.0e6aa8bee7ccb24dee2d.js (2)
+[29357:29357:0218/153342.550254:INFO:CONSOLE(0)] "Access to fetch at 'https://webcast.us.tiktok.com/webcast/feed/?aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%20x86_64&browser_version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F133.0.0.0%20Safari%2F537.36&channel=tiktok_web&channel_id=86&content_type=0&cookie_enabled=true&data_collection_enabled=false&device_id=7472736157726574122&device_platform=web_pc&device_type=web_h264&focus_state=true&from_page=user&hidden_banner=true&history_len=2&is_fullscreen=false&is_non_personalized=0&is_page_visible=true&max_time=0&os=linux&priority_region=&referer=https%3A%2F%2Fwww.tiktok.com%2F%40_berfinbzkrtt35%2Flive&region=US&req_from=pc_web_suggested_host&root_referer=https%3A%2F%2Fwww.tiktok.com%2F%40_berfinbzkrtt35%2Flive&screen_height=1080&screen_width=1920&tz_name=Europe%2FIstanbul&user_is_login=false&webcast_language=en&msToken=&X-Bogus=DFSzswVO81xANVOWtDdcU2-Fmf7L&_signature=_02B4Z6wo00001V.JVowAAIDAcgQQXvn3wQFfyVIAADBJ11' from origin 'https://www.tiktok.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://www.tiktok.com/@_berfinbzkrtt35/live (0)
+[29357:29357:0218/153342.842685:INFO:CONSOLE(849)] "Failed to fetch csrf token: host=webcast.us.tiktok.com status_code=403 message=kms err", source: https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/secsdk/secsdk-lastest.umd.js (849)
+[29357:29357:0218/153347.210817:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153347.266844:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153347.333920:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153347.619319:INFO:CONSOLE(849)] "Failed to fetch csrf token: host=webcast.us.tiktok.com status_code=403 message=kms err", source: https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/secsdk/secsdk-lastest.umd.js (849)
+[29357:29357:0218/153348.208913:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153348.227776:INFO:CONSOLE(849)] "Failed to fetch csrf token: host=webcast.us.tiktok.com status_code=403 message=kms err", source: https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/secsdk/secsdk-lastest.umd.js (849)
+[30168:30244:0218/153348.330040:WARNING:host_resolver_dns_task.cc(939)] Address list empty after RFC3484 sort
+[30168:30244:0218/153348.380310:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153348.638576:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153349.154238:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29357:29357:0218/153349.354295:WARNING:wayland_screen.cc(445)] Cannot inhibit going idle when no window is focused
+[30168:30244:0218/153350.167961:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153352.181566:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29357:29357:0218/153353.664251:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153353.999524:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153354.098606:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153354.098684:INFO:CONSOLE(27324)] "storageFail [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153354.513249:INFO:CONSOLE(27324)] "generateKeys duration 413 jsrsasign", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153354.513332:INFO:CONSOLE(27324)] "set storage [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153354.513361:INFO:CONSOLE(27324)] "set storage [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[30168:30244:0218/153356.214206:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153404.238642:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29357:29357:0218/153406.896813:INFO:CONSOLE(4)] "Permissions policy violation: unload is not allowed in this document.", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.236/index.js (4)
+[29357:29357:0218/153407.741208:INFO:CONSOLE(1)] "isSuccess  [object Object] true", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-live-stack/9888.611f99ef6de6956c4b99.js (1)
+[30168:30244:0218/153412.235941:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153418.930184:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153419.184212:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153419.770863:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153420.244209:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153420.721609:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153422.733588:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153426.744274:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30399:30:0218/153428.259588:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:55624 (any)
+[30168:30244:0218/153434.760102:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153442.775264:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[30168:30244:0218/153450.790857:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[29357:29357:0218/153455.897289:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153455.898290:INFO:CONSOLE(27324)] "getPubKeyBase64 from raw undefined", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153455.952713:INFO:CONSOLE(27324)] "jsrsasignPerformance duration 54 getPubKeyBase64", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[29357:29357:0218/153455.953304:INFO:CONSOLE(27324)] "getPubKeyBase64 from method BLqhIrNzqTl9l6lbCxWrZ8YLnsS1VH/yYi2iTdGkX4+qeT0xzjVX09/RDCkAU3RkuRD96S9bRc8gkCYg4TxK8Sc=", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/crypto/umd/index.js (27324)
+[30399:30:0218/153458.806483:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:60674 (any)
+[29357:29357:0218/153459.144454:INFO:CONSOLE(5832)] "request duration [object Object]", source: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/zti/2.0.0.25/request/umd/index.js (5832)
+[29357:29846:0218/153504.138315:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[29357:29357:0218/153506.438070:WARNING:invalidation_listener_impl.cc(263)] ProfileInvalidationProvider-585406161706 Registration token: c0y0LwYnXMs:APA91bHzZZur7UHtCRu7ZalCbvYI-mAMsJausvbN8guPmWYAGYW7DFnaQFikOUeSGSCw_oR4Py8h3TVMnKel_B-JGuT-WDgPFQQSl7Ous_pFq90eQyNLI7w
+[29357:29357:0218/153506.438155:ERROR:fm_registration_token_uploader.cc(186)] Client is missing for kUser scope
+[29357:29357:0218/153506.442244:WARNING:invalidation_listener_impl.cc(263)] ProfileInvalidationProvider-245350905893 Registration token: cwbUeiSDu0k:APA91bGg0tZ9LzDwlSV3nu4iJspCkfmzMdCPiICjqU8RTOJJSN0C21FmmMYHDYQ0cdp7MQp8a1mfyYsnRSFtIB55I4l7Dhq4p_xHa0mxZiMw4TBGQGmH57Q
+[29357:29357:0218/153506.442287:ERROR:fm_registration_token_uploader.cc(186)] Client is missing for kUser scope
+[29357:29846:0218/153534.401518:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[29357:29846:0218/153847.967038:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+[29357:29846:0218/153847.967363:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[29357:29357:0218/153848.185340:ERROR:zygote_communication_linux.cc(296)] Failed to send GetTerminationStatus message to zygote
+[29357:29357:0218/153848.185416:WARNING:zygote_communication_linux.cc(308)] Socket closed prematurely.
+[29357:29357:0218/153848.277470:ERROR:zygote_communication_linux.cc(296)] Failed to send GetTerminationStatus message to zygote
+[29357:29357:0218/153848.277507:WARNING:zygote_communication_linux.cc(308)] Socket closed prematurely.
+[29357:29357:0218/153848.288371:ERROR:zygote_communication_linux.cc(296)] Failed to send GetTerminationStatus message to zygote
+[29357:29357:0218/153848.288415:WARNING:zygote_communication_linux.cc(308)] Socket closed prematurely.
+[29357:29357:0218/153848.296920:ERROR:zygote_communication_linux.cc(296)] Failed to send GetTerminationStatus message to zygote
+[29357:29357:0218/153848.296950:WARNING:zygote_communication_linux.cc(308)] Socket closed prematurely.
+[29357:29357:0218/153848.376343:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: 
+[29357:29357:0218/153848.378326:ERROR:zygote_communication_linux.cc(296)] Failed to send GetTerminationStatus message to zygote
+[29357:29357:0218/153848.378354:WARNING:zygote_communication_linux.cc(308)] Socket closed prematurely.
+[29357:29357:0218/153848.411813:ERROR:network_service_instance_impl.cc(612)] Network service crashed, restarting service.
+[29357:29357:0218/153848.437177:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.437225:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 1 time(s)
+[29357:29357:0218/153848.556195:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.578641:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 2 time(s)
+[29357:29357:0218/153848.605832:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.605871:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 3 time(s)
+[29357:29357:0218/153848.619722:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.619762:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 4 time(s)
+[29357:30159:0218/153848.640853:WARNING:backend_impl.cc(1757)] Destroying invalid entry.
+[29357:29357:0218/153848.643294:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.643318:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 5 time(s)
+[29357:29357:0218/153848.647823:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.668867:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 6 time(s)
+[29357:29357:0218/153848.672242:ERROR:gpu_process_host.cc(947)] GPU process launch failed: error_code=1002
+[29357:29357:0218/153848.672299:WARNING:gpu_process_host.cc(1384)] The GPU process has crashed 7 time(s)
+[29357:29357:0218/153848.723182:WARNING:invalidation_listener_impl.cc(110)] ProfileInvalidationProvider-585406161706 Destroying
+[29357:29357:0218/153848.740079:WARNING:invalidation_listener_impl.cc(110)] ProfileInvalidationProvider-245350905893 Destroying
+[29357:29357:0218/153848.749430:ERROR:wayland_event_watcher.cc(47)] libwayland: warning: queue 0x8c00038b40 destroyed while proxies still attached:
+
+[29357:29357:0218/153848.765112:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_buffer#49 still attached
+
+[29357:29357:0218/153848.765189:ERROR:wayland_event_watcher.cc(47)] libwayland:   wl_shm_pool#37 still attached
+
